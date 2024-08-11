@@ -1,0 +1,22 @@
+{
+    "name": "Task Manager",
+    "short_name": "TaskMgr",
+    "description": "A simple Task Manager application to organize and manage your daily tasks.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#007BFF",
+    "theme_color": "#007BFF",
+    "icons": [
+      {
+        "src": "icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
